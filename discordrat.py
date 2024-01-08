@@ -19,4 +19,4 @@ async def on_ready():
    else:
        print(f"No 'general' channel found in guild: {guild}")
 
-client.run('your bots token here)
+client.run('your bots token here')
